@@ -1,3 +1,7 @@
 Use this file to record your reflection on this assignment. 
 
 What worked, what didn't, what advice would you give someone taking this course in the future?
+
+As I worked through the assignment I was really confused. I wasn't sure which files to access at certain times, and I wasn't sure how much I was supposed to code for each object. I understood that each object needed attributes and methods, but I wasn't sure if I was implementing them correctly or if I had even understood the assignment at all.
+I think what worked for me was looking at the given code and trying to understand each function and method. It was also helpful to write and think in pseudocode, since it's been a while since I've coded in Python. What didn't work for me was trying to comprehend and make sure everything worked together. It was difficult for me to understand the relation of one file to the other, and I constantly found myself confused and rereading the instructions to see if there were any hints or advice. I finally got an idea on what I was supposed to do and where to start after seeking some help from a classmate.
+I would advice someone taking this course in the future to ask for help and ask for clarification. Even if you can't attend office hours and TA hours, ask classmates and work on it with your friends. Also, looking up resources such as what exactly object-oriented programming is and what an attribute and method is will help you gain more understanding of OOP, but also so you know what you should be doing for assignments.
