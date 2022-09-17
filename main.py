@@ -1,3 +1,10 @@
+"""
+CSC 120-01
+A2: Object-ification
+Lily Z. Guo
+Peers: Juniper Huang
+"""
+
 # Import a few useful containers from the typing module
 from calendar import c
 from typing import Dict, Union
